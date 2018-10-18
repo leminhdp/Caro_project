@@ -7,7 +7,12 @@ use File::Find;
 use JSON::Parse ':all';
 #use strict;
 ########################################
+<<<<<<< HEAD
 # Khai bao cac bien trong plgin#########
+=======
+### Tinh la soi to ################
+#########################################
+>>>>>>> Sua tu Dieplm
 my $time_pattern = '%Y-%m-%dT%H:%M:%S'; #2016-11-10T18:41:49,648
 #my $thamso = '{"timestamp":"%Y-%m-%dT%H:%M:%S"}';
 my $warning = 5;
